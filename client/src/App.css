@@ -1,0 +1,25 @@
+.product .name{
+  margin-top: 10px;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.product .description{
+  margin-top: 0px;
+  font-size: 15px;
+  font-weight: 300;
+  text-align: justify;
+
+  display: block;
+  width: 230px;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+.product .price{
+  margin-top: 10px;
+  font-size: 15px;
+  font-weight: 400;
+  color: rgb(88, 88, 88);
+}
